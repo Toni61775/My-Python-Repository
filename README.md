@@ -41,7 +41,7 @@ This project was completed as part of a Data Technician Bootcamp and demonstrate
   
 - Creating interactive command-line programs
 
-    <img width="1145" height="444" alt="image" src="https://github.com/user-attachments/assets/012554ec-1c79-40a3-8c46-462da33b2b01" />
+<img width="1145" height="444" alt="image" src="https://github.com/user-attachments/assets/012554ec-1c79-40a3-8c46-462da33b2b01" />
     
 - Validating and processing user input
 
@@ -49,7 +49,7 @@ This project was completed as part of a Data Technician Bootcamp and demonstrate
 
 - Performing basic calculations and decision-making
 
-  <img width="1123" height="298" alt="image" src="https://github.com/user-attachments/assets/42277929-5e19-4ea2-bbd1-5d1172758e4d" />
+<img width="1123" height="298" alt="image" src="https://github.com/user-attachments/assets/42277929-5e19-4ea2-bbd1-5d1172758e4d" />
 
  
 - Structuring readable and maintainable Python code  
@@ -72,7 +72,7 @@ This project was completed as part of a Data Technician Bootcamp and demonstrate
 - 🔁 Repetitive prompts and retry mechanisms using loops
 
 
-  <img width="1101" height="618" alt="image" src="https://github.com/user-attachments/assets/f0fa3fba-e96e-49b4-be4d-e03063d3a9da" />
+<img width="1101" height="618" alt="image" src="https://github.com/user-attachments/assets/f0fa3fba-e96e-49b4-be4d-e03063d3a9da" />
   
 
 ---
